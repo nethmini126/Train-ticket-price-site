@@ -19,5 +19,5 @@ Welcome to the Train Ticket Price System! This project is a console-based applic
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/train-ticket-price-system.git
+   git clone https://github.com/nethmini126/Train-ticket-price-site.git
 
